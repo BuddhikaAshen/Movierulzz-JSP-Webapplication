@@ -1,7 +1,3 @@
-Here’s a **README.md** description for your **MovieRulzz** Java Servlet web application:  
-
----
-
 # 🎬 MovieRulzz – Online Movie Ticket Booking System  
 
 **MovieRulzz** is a dynamic web application built using **Java Servlets & JSP** that allows users to book movie tickets seamlessly. The admin panel provides full control over movie listings, showtimes, and revenue insights.
